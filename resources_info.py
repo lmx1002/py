@@ -2,8 +2,8 @@
 # _*_coding:utf-8_*_
 
 """
-@author: simon
-@file: t4
+@author: lmx1002
+@file: resources_info.py
 @time: 2017/6/20 17:21
 @software: PyCharm
 系统信息，cpu，内存，硬盘，网路，进程
