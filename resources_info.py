@@ -111,6 +111,3 @@ print(p.username())
 
 # print(psutil.cpu_freq())
 
-import wmi
-
-w = wmi.WMI()
